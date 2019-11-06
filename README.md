@@ -29,7 +29,7 @@ $this->database->createDatabase($this->input->post('ehealth'));
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown link
+          Doctor
         </a>
         <div class="dropdown-menu" doctor="navbarDropdownMenuLink">
           <a class="dropdown-item" href="#">create patient record</a>
